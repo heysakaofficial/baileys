@@ -1,16 +1,16 @@
 {
-    "name": "qwerty-xcv/Baileys",
-    "version": "2.1.7",
-    "description": "WhatsApp Modified By 7eppeli",
+    "name": "heysakaofficial/baileys",
+    "version": "2.0.0",
+    "description": "Create By Heysaka",
     "keywords": [
         "whatsapp-baileys"
     ],
-    "homepage": "https://github.com/qwerty-xcv/Baileys",
+    "homepage": "https://github.com/heysakaofficial/baileys",
     "repository": {
-        "url": "https://github.com/qwerty-xcv/Baileys"
+        "url": "https://github.com/heysakaofficial/baileys"
     },
     "license": "MIT",
-    "author": "7eppeli.pdf",
+    "author": "heysaka",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
     "files": [
@@ -101,6 +101,6 @@
         "node": ">=20.0.0"
     }, 
     "bugs": {
-      "url": "https://qwerty-xcv/Baileys/issues"
+      "url": "https://heysaka/baileys/issues"
     }
 }
